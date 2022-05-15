@@ -22,3 +22,5 @@
 - 🥈 I developed a CMS based on school 🏫.
 - 🥇 My first project was creating a website for a business providing home appliances services like repair, maintainance, installation etc.
 
+[![Banhi's github status]
+(https://github-readme-stats.vercel.app/api?username=BanhiBikash&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats).

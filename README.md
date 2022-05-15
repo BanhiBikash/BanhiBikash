@@ -17,8 +17,8 @@
 
 ## My internship history
 
-- 🔭 I’m currently working on a hotel management system based on **react**. Hoorah! 🔥
-- 🌱 My last project was a website for an foundation for economic research for journal📙 upload⬆️ ,read👓 , download⬇️ etc.
-- 👯 I developed a CMS based on school 🏫.
-- 🤔 My first project was creating a website for a business providing home appliances services like repair, maintainance, installation etc.
+- 🌠 I’m currently working on a hotel management system based on **react**. Hoorah! 🔥
+- 🥉 My last project was a website for an foundation for economic research for journal📙 upload⬆️ ,read👓 , download⬇️ etc.
+- 🥈 I developed a CMS based on school 🏫.
+- 🥇 My first project was creating a website for a business providing home appliances services like repair, maintainance, installation etc.
 

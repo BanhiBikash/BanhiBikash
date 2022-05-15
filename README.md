@@ -1,16 +1,24 @@
 ### Hi there 👋
 
-<!--
-**BanhiBikash/BanhiBikash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**I am Banhi, a 6th sem** student pursuing **Bachelors in Computer Application(BCA)** and also work as an **intern** as a **full stack web developer**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages/Technologies which I work on
+
+- ⭐ HTML 
+- :trophy: CSS
+- 🥇 JavaScript  
+- 🧩 PHP
+- 👑 MySQL
+- 🕹️ Java
+- 🌈 C++
+- ⚡ C
+- 😃 Prologue
+
+## My internship history
+
+- 🔭 I’m currently working on a hotel management system based on **react**. Hoorah! 🔥
+- 🌱 My last project was a website for an foundation for economic research for journal📙 upload⬆️ ,read👓 , download⬇️ etc.
+- 👯 I developed a CMS based on school 🏫.
+- 🤔 My first project was creating a website for a business providing home appliances services like repair, maintainance, installation etc.
+

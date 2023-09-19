@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**I am Banhi, a 6th sem** student pursuing **Bachelors in Computer Application(BCA)** and also work as an **intern** as a **full stack web developer**.
+**I am Banhi, I have done my **Bachelors in Computer Application(BCA)** and proficient with **full stack web developement**. I Specilaize in **React** as well.
 
 ## Languages/Technologies which I work on
 
